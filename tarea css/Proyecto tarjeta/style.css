@@ -1,0 +1,57 @@
+.tarjeta {
+    font-family: sans-serif;
+    width: 40%;
+    height: 80vh;
+    display: flex;
+    margin: auto;
+    
+}
+
+.fondo {
+    
+    width: 100%;
+    height: 150px;
+    background: #00BCD4;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+
+}
+
+img {
+    border-radius: 200px;
+    width: 30%;
+    margin-top: 80px;
+    margin-left: 40px;
+}
+
+h1 {
+    padding-top: 150px;
+    padding-left: 50px;
+    color: #333333;
+}
+
+h2 {
+    padding-top: 15px;
+    padding-left: 50px;
+    color: #828282;
+}
+
+h3 {
+    padding-top: 15px;
+    color: #808286;
+    padding-left: 50px;
+}
+
+.h31 {
+    padding-top: 10px;
+}
+
+button {
+    margin-top: 15px;
+    margin-left: 50px;
+    width: 120px;
+    height: 50px;
+    border: none;
+    font-size: 15px;
+    font-weight: bold;
+}

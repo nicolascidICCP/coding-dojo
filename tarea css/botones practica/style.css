@@ -1,0 +1,28 @@
+.btn {
+    width: 15%;
+    height: 35px;
+    border-radius: 20px;
+    border: 2px solid black;
+    font-weight: bold;
+    background-color: #CCCCCC;
+}
+
+.btn-2 {
+    width: 60px;
+    height: 60px;
+    border-radius: 100px;
+    border: none;
+    color: white;
+    background-color: #FF6600;
+    font-size: 30px;
+}
+
+.btn-3 {
+    width: 130px;
+    height: 40px;
+    border: none;
+    background-color: #0099FF;
+    color: white;
+    font-size: 15px;
+    box-shadow: 6px 15px 40px black;
+}
